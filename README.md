@@ -16,10 +16,15 @@ Ensure you have [Node.js](https://nodejs.org/) installed on your system.
    ```sh
    cd Enterprise_AI
    ```
-3. Install dependencies:
+3. Move into the frontend directory:
+   ```sh
+   cd frontend
+   ```
+4. Install dependencies:
    ```sh
    npm install
    ```
+
 
 ### Running the Development Server
 Start the development server with:
