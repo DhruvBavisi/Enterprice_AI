@@ -10,11 +10,11 @@ Ensure you have [Node.js](https://nodejs.org/) installed on your system.
 ### Installation
 1. Clone the repository:
    ```sh
-   git clone <>
+   git clone <https://github.com/DhruvBavisi/Enterprice_AI.git>
    ```
 2. Navigate to the project directory:
    ```sh
-   cd project-directory
+   cd Enterprise_AI
    ```
 3. Install dependencies:
    ```sh
