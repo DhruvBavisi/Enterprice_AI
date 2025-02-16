@@ -10,7 +10,7 @@ Ensure you have [Node.js](https://nodejs.org/) installed on your system.
 ### Installation
 1. Clone the repository:
    ```sh
-   git clone <https://github.com/DhruvBavisi/Enterprice_AI.git>
+   git clone https://github.com/DhruvBavisi/Enterprice_AI.git
    ```
 2. Navigate to the project directory:
    ```sh
